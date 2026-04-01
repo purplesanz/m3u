@@ -141,22 +141,18 @@ http://38.210.3.64:8090/play/a0mk/index.m3u8
 http://38.210.3.64:8090/play/a0j8/index.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/03/LOGO-KKANAL-D_00299_dark.png",KANAL D DRAMA
 http://38.210.3.64:8090/play/a0jz/index.m3u8
-#EXTINF:-1 tvg-logo="",KARIBEÑA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGWDnuLlfQKGsc17-fT1anEt-n1jg6R6Ajg&s",KARIBEÑA
 http://38.210.3.64:8090/play/a08c/index.m3u8
-#EXTINF:-1 tvg-logo="",L1 MAX
-http://38.210.3.64:8090/play/a0no/index.m3u8
-#EXTINF:-1 tvg-logo="",LIGA 1 MAX
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es",LIGA 1 MAX
 http://38.210.3.64:8090/play/a08q/index.m3u8
-#EXTINF:-1 tvg-logo="",La Red
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/330px-La_Red_Logotipo_2021.svg.png",La Red
 http://38.210.3.64:8090/play/a0li/index.m3u8
-#EXTINF:-1 tvg-logo="",Las Estrellas HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Las_estrellas_2017.jpg/250px-Las_estrellas_2017.jpg",Las Estrellas HD
 http://38.210.3.64:8090/play/a0ng/index.m3u8
-#EXTINF:-1 tvg-logo="",Latina HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/250px-Latina_Television_-_Logotipo.png",Latina HD
 http://38.210.3.64:8090/play/a0c0/index.m3u8
-#EXTINF:-1 tvg-logo="",Lifetime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/330px-Lifetime_tv_logo.svg.png",Lifetime
 http://38.210.3.64:8090/play/a0ly/index.m3u8
-#EXTINF:-1 tvg-logo="",MEGA HD
-http://38.210.3.64:8090/play/a0lh/index.m3u8
 #EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/MUSICA-HITS.png",MI MUSICA HITS
 http://38.210.3.64:8090/play/a0ge/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00s 
