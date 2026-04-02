@@ -214,7 +214,7 @@ http://38.210.3.64:8090/play/a0j1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png",willax
 http://38.210.3.64:8090/play/a0my/index.m3u8
 
-#MUSICA
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGWDnuLlfQKGsc17-fT1anEt-n1jg6R6Ajg&s",♪ KARIBEÑA
 http://38.210.3.64:8090/play/a08c/index.m3u8
 #EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/MUSICA-HITS.png",♪ MI MUSICA HITS
@@ -236,7 +236,7 @@ http://38.210.3.64:8090/play/a0ln/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1961865035409485824/ff5EXMzQ.jpg",♪ vclassic musica
 http://38.210.3.64:8090/play/a0kd/index.m3u8
 
-#RELIGION
+
 #EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/BethelTV1998.png",† BETHEL TV
 http://38.210.3.64:8090/play/a0dy/index.m3u8
 #EXTINF:-1 tvg-logo="https://daystar.com/hs-fs/hubfs/Daystar%20Logos/Daystar-star-blue.png",† DAYSTAR
