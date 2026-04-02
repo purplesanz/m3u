@@ -17,8 +17,6 @@ http://38.210.3.64:8090/play/a0jx/index.m3u8
 http://38.210.3.64:8090/play/a0bw/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/330px-2018_Animal_Planet_logo.svg.png",Animal Planet HD
 http://38.210.3.64:8090/play/a0j4/index.m3u8
-#EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/BethelTV1998.png",BETHEL TV
-http://38.210.3.64:8090/play/a0dy/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png",Baby TV
 http://38.210.3.64:8090/play/a0km/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/330px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN Espaæol
@@ -35,8 +33,6 @@ http://38.210.3.64:8090/play/a0iy/index.m3u8
 http://38.210.3.64:8090/play/a0gt/index.m3u8
 #EXTINF:-1 tvg-logo="https://logosquiz.net/data/logomania/images/logos/comedy_central.png",Comedy Central HD
 http://38.210.3.64:8090/play/a0do/index.m3u8
-#EXTINF:-1 tvg-logo="https://daystar.com/hs-fs/hubfs/Daystar%20Logos/Daystar-star-blue.png",DAYSTAR
-http://38.210.3.64:8090/play/a0ni/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/330px-Deutsche_Welle_symbol_2012.svg.png",DW Espaæol
 http://38.210.3.64:8090/play/a0kk/index.m3u8
 #EXTINF:-1 tvg-logo="https://p16-amd-va.tiktokcdn.com/tos-maliva-avt-0068/6e73811ed3acb41f926d2595662afad9~tplv-tiktokx-cropcenter-q:720:720:q75.jpeg",De PelTcula
@@ -77,16 +73,12 @@ http://38.210.3.64:8090/play/a0dj/index.m3u8
 http://38.210.3.64:8090/play/a0e6/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/330px-ESPN_Premium_logo.svg.png",ESPN Premium HD
 http://38.210.3.64:8090/play/a0ke/index.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/media/tv-logo/us-ewtn-eeuu-3675.jpg",EWTN
-http://38.210.3.64:8090/play/a0l5/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/330px-Logoexitosa.png",EXITOSA
 http://38.210.3.64:8090/play/a07y/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/330px-Logoexitosa.png",Exitosa TV
 http://38.210.3.64:8090/play/a0ms/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Gourmet_logo.svg/250px-El_Gourmet_logo.svg.png",El Gourmet
 http://38.210.3.64:8090/play/a0nl/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032011/untitled-1_292.png",Enlace
-http://38.210.3.64:8090/play/a0jw/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png",Europa Europa
 http://38.210.3.64:8090/play/a0ks/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbrNrj95BtsXhzQC9VENmW_6YwzB1Ii7uRWQ&s",FMH FAMILY
@@ -141,8 +133,6 @@ http://38.210.3.64:8090/play/a0mk/index.m3u8
 http://38.210.3.64:8090/play/a0j8/index.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/03/LOGO-KKANAL-D_00299_dark.png",KANAL D DRAMA
 http://38.210.3.64:8090/play/a0jz/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGWDnuLlfQKGsc17-fT1anEt-n1jg6R6Ajg&s",KARIBEÑA
-http://38.210.3.64:8090/play/a08c/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/330px-La_Red_Logotipo_2021.svg.png",La Red
 http://38.210.3.64:8090/play/a0li/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Las_estrellas_2017.jpg/250px-Las_estrellas_2017.jpg",Las Estrellas HD
@@ -151,28 +141,14 @@ http://38.210.3.64:8090/play/a0ng/index.m3u8
 http://38.210.3.64:8090/play/a0c0/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/330px-Lifetime_tv_logo.svg.png",Lifetime
 http://38.210.3.64:8090/play/a0ly/index.m3u8
-#EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/MUSICA-HITS.png",MI MUSICA HITS
-http://38.210.3.64:8090/play/a0ge/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00s 
-http://38.210.3.64:8090/play/a0m4/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/330px-MTV_Logo_2010.svg.png",MTV HD
 http://38.210.3.64:8090/play/a0ew/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/250px-MTV_Live.svg.png",MTV LIVE HD
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8312
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLmp0mALajEDUxTwONuT7graKK2QjhG3QlqA&s",MUNDO DE LA MUSICA
-http://38.210.3.64:8090/play/a0lt/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/330px-Natgeologo.svg.png",Nat Geo HD
 http://38.210.3.64:8090/play/a0j7/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon HD
 http://38.210.3.64:8090/play/a0d3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/330px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick Jr
 http://38.210.3.64:8090/play/a0jr/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/NickMusic_Logo_%282023%29.png/330px-NickMusic_Logo_%282023%29.png",Nick Music
-http://38.210.3.64:8090/play/a0cc/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/RCNNuestraTeleInternacional_2023.png",Nuestra Tele
-http://38.210.3.64:8090/play/a0mj/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logotipo_de_Panamericana_Televisi%C3%B3n_%282014-2020%29.svg/330px-Logotipo_de_Panamericana_Televisi%C3%B3n_%282014-2020%29.svg.png",PANAMERICANA
-http://38.210.3.64:8090/play/a0mz/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logotipo_de_Panamericana_Televisi%C3%B3n_%282014-2020%29.svg/330px-Logotipo_de_Panamericana_Televisi%C3%B3n_%282014-2020%29.svg.png",Panamericana
 http://38.210.3.64:8090/play/a0d8/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/250px-Paramount_Network.svg.png",Paramount HD
@@ -191,10 +167,6 @@ http://38.210.3.64:8090/play/a0it/index.m3u8
 http://38.210.3.64:8090/play/a0en/index.m3u8
 #EXTINF:-1 tvg-logo="https://iaovivo.com/wp-content/uploads/2022/09/space.jpg",Space HD
 http://38.210.3.64:8090/play/a0iu/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stingray_Concerts.svg/330px-Stingray_Concerts.svg.png",Stingray Concerts HD
-http://38.210.3.64:8090/play/a0n8/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stingray_Concerts.svg/330px-Stingray_Concerts.svg.png",Stingray Concerts HD
-http://38.210.3.64:8090/play/a0m5/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/330px-Logo_Studio_Universal.svg.png",Studio Universal HD
 http://38.210.3.64:8090/play/a0bt/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM
@@ -207,8 +179,6 @@ http://38.210.3.64:8090/play/a0ir/index.m3u8
 http://38.210.3.64:8090/play/a0ix/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/330px-TNT_Sports_Premium_%28Argentina%29.png",TNT Sports Premiun HD
 http://38.210.3.64:8090/play/a0kl/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Top_Latino.png",TOP LATINO
-http://38.210.3.64:8090/play/a0lm/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/TeleAragua_Logo.png",TV ARAGUA
 http://38.210.3.64:8090/play/a0lu/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TVS_Logo.svg/330px-TVS_Logo.svg.png",TVS MACARAY
@@ -231,13 +201,43 @@ http://38.210.3.64:8090/play/A01E/index.m3u8
 http://38.210.3.64:8090/play/a0cn/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/330px-Universal_TV_logo.svg.png",Universal
 http://38.210.3.64:8090/play/a0nm/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuUbWhPYK0D0M7gyKye7nLuuDw8Hg8iWy_iw&s",VISION MUSICA
-http://38.210.3.64:8090/play/a0ln/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJMO2LltjnC5BaDc2fEjgxCngRPCOwx3-wvA&s",Via X Esports
 http://38.210.3.64:8090/play/a0i3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/330px-Warner2018LA.png",Warner Channel HD
 http://38.210.3.64:8090/play/a0j1/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1961865035409485824/ff5EXMzQ.jpg",vclassic musica
-http://38.210.3.64:8090/play/a0kd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png",willax
 http://38.210.3.64:8090/play/a0my/index.m3u8
+
+#MUSICA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGWDnuLlfQKGsc17-fT1anEt-n1jg6R6Ajg&s",♪ KARIBEÑA
+http://38.210.3.64:8090/play/a08c/index.m3u8
+#EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/MUSICA-HITS.png",♪ MI MUSICA HITS
+http://38.210.3.64:8090/play/a0ge/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",♪ MTV 00s 
+http://38.210.3.64:8090/play/a0m4/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/250px-MTV_Live.svg.png",♪ MTV LIVE HD
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/8312
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLmp0mALajEDUxTwONuT7graKK2QjhG3QlqA&s",♪ MUNDO DE LA MUSICA
+http://38.210.3.64:8090/play/a0lt/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stingray_Concerts.svg/330px-Stingray_Concerts.svg.png",♪ Stingray Concerts HD
+http://38.210.3.64:8090/play/a0n8/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stingray_Concerts.svg/330px-Stingray_Concerts.svg.png",♪ Stingray Concerts HD
+http://38.210.3.64:8090/play/a0m5/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Top_Latino.png",♪ TOP LATINO
+http://38.210.3.64:8090/play/a0lm/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuUbWhPYK0D0M7gyKye7nLuuDw8Hg8iWy_iw&s",♪ VISION MUSICA
+http://38.210.3.64:8090/play/a0ln/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1961865035409485824/ff5EXMzQ.jpg",♪ vclassic musica
+http://38.210.3.64:8090/play/a0kd/index.m3u8
+
+#RELIGION
+#EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/BethelTV1998.png",† BETHEL TV
+http://38.210.3.64:8090/play/a0dy/index.m3u8
+#EXTINF:-1 tvg-logo="https://daystar.com/hs-fs/hubfs/Daystar%20Logos/Daystar-star-blue.png",† DAYSTAR
+http://38.210.3.64:8090/play/a0ni/index.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/media/tv-logo/us-ewtn-eeuu-3675.jpg",† EWTN
+http://38.210.3.64:8090/play/a0l5/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032011/untitled-1_292.png",† Enlace
+http://38.210.3.64:8090/play/a0jw/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/NickMusic_Logo_%282023%29.png/330px-NickMusic_Logo_%282023%29.png",† Nick Music
+http://38.210.3.64:8090/play/a0cc/index.m3u8
