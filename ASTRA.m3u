@@ -5,10 +5,6 @@ http://38.210.3.64:8090/play/a0nn/index.m3u8
 http://38.210.3.64:8090/play/a0n5/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png",AMC HD
 http://38.210.3.64:8090/play/a0hp/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/330px-ATV_logo_2020.png",ATV
-http://38.210.3.64:8090/play/a0da/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/330px-ATV_logo_2020.png",ATV +HD
-http://38.210.3.64:8090/play/a0io/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/330px-AXN_logo_%282015%29.svg.png",AXN HD
 http://38.210.3.64:8090/play/a0iz/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ideas/images/e/e2/Adult_Swim_logo.png",Adult Swim
@@ -85,7 +81,7 @@ http://38.210.3.64:8090/play/a0ks/index.m3u8
 http://38.210.3.64:8090/play/a0gj/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs61S6M1KgNm_dmNbgX_Erp-O96wBtMx_GGw&s",FMH FAMILY KIDS
 http://38.210.3.64:8090/play/a0gk/index.m3u8
-#EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FFMH_MOVIES.png&width=256&height=256",FMH FAMILY MOVIES
+#EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FFMH_MOVIES.png&width=256&height=256",FMH MOVIES
 http://38.210.3.64:8090/play/a0gl/index.m3u8
 #EXTINF:-1 tvg-logo="https://eldoceblog.com.ar/wp-content/uploads/ver-fox-sports-premium-argentina-online-en-vivo-640x360.jpg",FOX SPORT PREMIUM
 http://38.210.3.64:8090/play/a083/index.m3u8
