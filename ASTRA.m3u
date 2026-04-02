@@ -79,7 +79,7 @@ http://38.210.3.64:8090/play/a0nl/index.m3u8
 http://38.210.3.64:8090/play/a0ks/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbrNrj95BtsXhzQC9VENmW_6YwzB1Ii7uRWQ&s",FMH FAMILY
 http://38.210.3.64:8090/play/a0gj/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs61S6M1KgNm_dmNbgX_Erp-O96wBtMx_GGw&s",FMH FAMILY KIDS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs61S6M1KgNm_dmNbgX_Erp-O96wBtMx_GGw&s",FMH KIDS
 http://38.210.3.64:8090/play/a0gk/index.m3u8
 #EXTINF:-1 tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.win.i.mtvreg.com%2Fcache%2Flogos512%2FFMH_MOVIES.png&width=256&height=256",FMH MOVIES
 http://38.210.3.64:8090/play/a0gl/index.m3u8
