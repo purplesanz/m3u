@@ -13,6 +13,8 @@ http://38.210.3.64:8090/play/a0jx/index.m3u8
 http://38.210.3.64:8090/play/a0bw/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/330px-2018_Animal_Planet_logo.svg.png",Animal Planet HD
 http://38.210.3.64:8090/play/a0j4/index.m3u8
+#EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno HD
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png",Baby TV
 http://38.210.3.64:8090/play/a0km/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/330px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN Espaæol
@@ -131,6 +133,8 @@ http://38.210.3.64:8090/play/a0j8/index.m3u8
 http://38.210.3.64:8090/play/a0jz/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/330px-La_Red_Logotipo_2021.svg.png",La Red
 http://38.210.3.64:8090/play/a0li/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas (1080p)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Las_estrellas_2017.jpg/250px-Las_estrellas_2017.jpg",Las Estrellas HD
 http://38.210.3.64:8090/play/a0ng/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/250px-Latina_Television_-_Logotipo.png",Latina HD
@@ -159,12 +163,16 @@ http://38.210.3.64:8090/play/a0lg/index.m3u8
 http://38.210.3.64:8090/play/a0iw/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony HD
 http://38.210.3.64:8090/play/a0it/index.m3u8
+#EXTINF:-1 tvg-id="CineSony.us@SD" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/250px-Sony_Movies_Logo.svg.png",Sony Movies
 http://38.210.3.64:8090/play/a0en/index.m3u8
 #EXTINF:-1 tvg-logo="https://iaovivo.com/wp-content/uploads/2022/09/space.jpg",Space HD
 http://38.210.3.64:8090/play/a0iu/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/330px-Logo_Studio_Universal.svg.png",Studio Universal HD
 http://38.210.3.64:8090/play/a0bt/index.m3u8
+#EXTINF:-1 tvg-id="XEWHTDT.mx@SD" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="Undefined",Telemax HD
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM
 http://38.210.3.64:8090/play/a0kr/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/250px-TNT_%28TV_Channel%29.svg.png",TNT HD
