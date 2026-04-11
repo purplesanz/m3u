@@ -247,3 +247,7 @@ http://38.210.3.64:8090/play/a0l5/index.m3u8
 http://38.210.3.64:8090/play/a0jw/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/NickMusic_Logo_%282023%29.png/330px-NickMusic_Logo_%282023%29.png",† Nick Music
 http://38.210.3.64:8090/play/a0cc/index.m3u8
+
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1 tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/c06d07995907bb043ab61a1464ff9a97.png",SUPER MARIO GALAXY - LA PELICULA
+https://drive.google.com/file/d/1R5Sei_6ptkiKYgfekysgEEmg2qXxUx4l/view?usp=sharing
