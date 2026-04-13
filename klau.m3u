@@ -79,6 +79,8 @@ http://38.210.3.64:8090/play/a0j9/index.m3u8
 http://38.210.3.64:8090/play/a0eo/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Discovery_Kids_%282009%29.png",Discovery Kids HD
 http://38.210.3.64:8090/play/a0na/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs61S6M1KgNm_dmNbgX_Erp-O96wBtMx_GGw&s",FMH KIDS
+http://38.210.3.64:8090/play/a0gk/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon HD
 http://38.210.3.64:8090/play/a0d3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/330px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick Jr
