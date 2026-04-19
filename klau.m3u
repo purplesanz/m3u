@@ -45,7 +45,7 @@ http://38.210.3.64:8090/play/a0it/index.m3u8
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/250px-Sony_Movies_Logo.svg.png",Sony Movies
 http://45.5.119.43:4000/play/a03s/index.m3u8
-;http://38.210.3.64:8090/play/a0en/index.m3u8
+#http://38.210.3.64:8090/play/a0en/index.m3u8
 #EXTINF:-1 tvg-logo="https://iaovivo.com/wp-content/uploads/2022/09/space.jpg",Space HD
 http://38.210.3.64:8090/play/a0iu/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/330px-Star_Channel_2020.svg.png",STAR CHANNEL HD
@@ -74,14 +74,14 @@ http://38.210.3.64:8090/play/a0jt/index.m3u8
 http://38.210.3.64:8090/play/a0kb/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 http://45.5.119.43:4000/play/a0l0/index.m3u8
-;http://38.210.3.64:8090/play/a0jm/index.m3u8
+#http://38.210.3.64:8090/play/a0jm/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/2002_Disney_Channel_logo.svg/330px-2002_Disney_Channel_logo.svg.png",Disney HD
 http://38.210.3.64:8090/play/a0j9/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/330px-2024_Disney_Jr._Logo.svg.png",Disney Junior
 http://38.210.3.64:8090/play/a0eo/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Discovery_Kids_%282009%29.png",Discovery Kids HD
 http://45.5.119.43:4000/play/a03l/index.m3u8
-;http://38.210.3.64:8090/play/a0na/index.m3u8
+#http://38.210.3.64:8090/play/a0na/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs61S6M1KgNm_dmNbgX_Erp-O96wBtMx_GGw&s",FMH KIDS
 http://38.210.3.64:8090/play/a0gk/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon HD
@@ -110,7 +110,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="XEWHTDT.mx@SD" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="Undefined",Telemax (XEWH-TDT) (1080p)
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
-;http://dum.dummy.com
+#http://dum.dummy.com
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTINF:-1 tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/c06d07995907bb043ab61a1464ff9a97.png",SUPER MARIO GALAXY - LA PELICULA
 https://drive.google.com/file/d/1R5Sei_6ptkiKYgfekysgEEmg2qXxUx4l/view?usp=sharing
